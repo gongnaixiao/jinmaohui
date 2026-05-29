@@ -1,0 +1,6 @@
+{
+  "name": "JarLink JVM API Debugger",
+  "description": "A decoupled local-independent JarLink JVM API debugging platform with classpath visualizer, class AST scanner, dynamic method execution compiler, integrated scenario suite orchestrator, and AI-powered runtime metrics and safety auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
